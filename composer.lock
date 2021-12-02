@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "74124430a283ef15aa66a05bdccf0832",
+    "packages": [
+        {
+            "name": "yuankezhan/yii-page-widget",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://gitee.com/zhanghaichun/yii-page-widget.git",
+                "reference": "b15692d76ea5b454055e5adf6a035cab607ec095"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "yuankezhan\\yiiPageWidget\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "zhc",
+                    "email": "741698941@qq.com"
+                }
+            ],
+            "description": "基于 yii widget 封装的 page",
+            "time": "2021-12-01T03:06:33+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "beta",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

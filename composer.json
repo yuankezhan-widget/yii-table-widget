@@ -1,0 +1,19 @@
+{
+    "name": "yuankezhan/yii-table-widget",
+    "type": "library",
+    "require": {
+        "yuankezhan/yii-page-widget": ">=1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "yuankezhan\\yiiTableWidget\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhc",
+            "email": "741698941@qq.com"
+        }
+    ]
+}
