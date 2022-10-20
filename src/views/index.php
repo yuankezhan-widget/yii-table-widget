@@ -145,7 +145,7 @@ use yuankezhan\yiiTableWidget\Column;
                                         echo $rItem;
                                     }
                                 }
-                                else if (is_string($result))
+                                else
                                 {
                                     echo $result;
                                 }
